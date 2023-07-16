@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "fname": "Adel",
+        "lname": "Ahmad",
+        "city": "cairo",
+        "age": 40
+    },
+    {
+        "id": 2,
+        "fname": "Ail",
+        "lname": "Omar",
+        "city": "Alex",
+        "age": 33
+    },
+    {
+        "id": 3,
+        "fname": "Ola",
+        "lname": "kareem",
+        "city": "Mahala",
+        "age": 21
+    },
+    {
+        "id": 4,
+        "fname": "Amira",
+        "lname": "mohamadm",
+        "city": "Mansoura",
+        "age": 41
+    },
+    {
+        "id": 5,
+        "fname": "soha",
+        "lname": "ail",
+        "city": "Alex",
+        "age": 61
+    },
+    {
+        "id": 6,
+        "fname": "omar",
+        "lname": "bassem",
+        "city": "cairo",
+        "age": 23
+    },
+    {
+        "id": 7,
+        "fname": "yaseen",
+        "lname": "hamada",
+        "city": "tanta",
+        "age": 43
+    }
+]
